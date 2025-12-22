@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Yuyang Zhao
 
-<!--
-**LaoKuiZe/LaoKuiZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student in Computer Science, currently exploring the intersection of  
+**Large Language Models (LLMs)**, **Reinforcement Learning**, and **AI Agents**.
 
-Here are some ideas to get you started:
+🤖 I'm especially interested in multimodal agents that interact with real-world environments,  
+and I am currently working on OS-level agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Recently, I've been working on multimodal LLM-based agent systems,  
+and I'm interested in further exploring model training and reinforcement learning.
+
+🏸 Outside of research and coding, I enjoy playing badminton, watching tech talks,  
+and experimenting with new tools and frameworks.
+
+🌱 Actively seeking research opportunities and collaborations.
